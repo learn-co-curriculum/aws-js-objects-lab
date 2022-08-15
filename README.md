@@ -14,9 +14,12 @@ If you haven't already, fork and clone this lab into your local environment.
 Navigate into its directory in the terminal, then run `code .` to open the files
 in Visual Studio Code.
 
+Install all the dependencies with `npm install` to ensure you can test your work 
+as you go with `npm test`.
+
 ## Instructions
 
-Follow the steps below, running `learn test` as you go to get additional
+Follow the steps below, running `npm test` as you go to get additional
 information from the tests.
 
 Let's say we are working on a program that will keep track of a company's
